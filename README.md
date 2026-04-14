@@ -1,4 +1,4 @@
-markdown# ESP32 BLE LED Controller
+ESP32 BLE LED Controller
 
 Control an onboard LED over Bluetooth Low Energy from your iPhone using the **nRF Connect** app. Send text commands via a custom GATT service and receive acknowledgement responses in real time.
 
